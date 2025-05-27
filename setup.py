@@ -12,7 +12,7 @@ setup(
     author="Andrés A León Baldelli",
     author_email="leon.baldelli@cnrs.fr",
     description="Default plotting settings and utilities.",
-    url="https://github.com/kumiori3/visuals",
+    url="https://github.com/kumiori/visuals",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
