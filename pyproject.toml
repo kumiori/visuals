@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "visuals"
+version = "0.1.0"
+description = "Default plotting settings and utilities."
+authors = [
+    { name = "Andrés A León Baldelli", email = "leon.baldelli@cnrs.fr" }
+]
+readme = "README.md"
+requires-python = ">=3.6"
+license = { text = "MIT" }
+dependencies = [
+    "matplotlib"
+]
+
+[project.urls]
+Homepage = "https://github.com/kumiori3/visuals"
